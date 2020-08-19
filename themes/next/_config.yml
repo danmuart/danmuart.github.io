@@ -37,13 +37,13 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 favicon:
-  small: https://gitee.com/danmuart/danmuart-pic/raw/master/favicon.png
+  small: https:////cdn.jsdelivr.net/gh/danmuart/danmuart.github.io/source/favicon.png
   #/images/favicon-16x16-next.png
-  medium: https://gitee.com/danmuart/danmuart-pic/raw/master/favicon.png
+  medium: https:////cdn.jsdelivr.net/gh/danmuart/danmuart.github.io/source/favicon.png
   #images/favicon-32x32-next.png
-  apple_touch_icon: https://gitee.com/danmuart/danmuart-pic/raw/master/favicon.png
+  apple_touch_icon: https:////cdn.jsdelivr.net/gh/danmuart/danmuart.github.io/source/favicon.png
   #/images/apple-touch-icon-next.png
-  safari_pinned_tab: https://gitee.com/danmuart/danmuart-pic/raw/master/favicon.png
+  safari_pinned_tab: https:////cdn.jsdelivr.net/gh/danmuart/danmuart.github.io/source/favicon.png
   #/images/logo.svg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
