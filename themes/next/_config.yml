@@ -37,13 +37,13 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 favicon:
-  small: https:////cdn.jsdelivr.net/gh/danmuart/danmuart.github.io/source/favicon.png
+  small: https://cdn.jsdelivr.net/gh/danmuart/danmuart.github.io/source/favicon.png
   #/images/favicon-16x16-next.png
-  medium: https:////cdn.jsdelivr.net/gh/danmuart/danmuart.github.io/source/favicon.png
+  medium: https://cdn.jsdelivr.net/gh/danmuart/danmuart.github.io/source/favicon.png
   #images/favicon-32x32-next.png
-  apple_touch_icon: https:////cdn.jsdelivr.net/gh/danmuart/danmuart.github.io/source/favicon.png
+  apple_touch_icon: https://cdn.jsdelivr.net/gh/danmuart/danmuart.github.io/source/favicon.png
   #/images/apple-touch-icon-next.png
-  safari_pinned_tab: https:////cdn.jsdelivr.net/gh/danmuart/danmuart.github.io/source/favicon.png
+  safari_pinned_tab: https://cdn.jsdelivr.net/gh/danmuart/danmuart.github.io/source/favicon.png
   #/images/logo.svg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
