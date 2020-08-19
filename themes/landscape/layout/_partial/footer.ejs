@@ -1,0 +1,12 @@
+<footer id="footer">
+  <% if (theme.sidebar === 'bottom'){ %>
+    <%- partial('_partial/sidebar') %>
+  <% } %>
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
+      <%= __('网站使用') %> <a href="http://hexo.io/" target="_blank">Hexo</a>建成<br>
+	  <%= __('维护者') %> <a href="https://space.bilibili.com/327596612" target="_blank">bilibili@开心就好-_-</a>
+    </div>
+  </div>
+</footer>
