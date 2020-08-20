@@ -24,12 +24,12 @@ B站一共有6种弹幕类型，分别为：
 
 ## 弹幕教程
 ### BAS弹幕（M9）视频教程参考
-<iframe src="//player.bilibili.com/player.html?aid=86360823&bvid=BV1S7411W78Q&cid=147600970&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=86360823&bvid=BV1S7411W78Q&cid=147600970&page=2&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 * 官方文档CDN镜像（国内建议使用）：<https://danmuart.github.io/bilibas/index.html>
 * 官方原版文档（比较慢，建议使用上面的镜像）：<https://bilibili.github.io/bas/>
 
 ### 代码弹幕（M8）视频教程参考（已经过时）
-<iframe src="//player.bilibili.com/player.html?aid=884694&bvid=BV1ks411o7ay&cid=5966295&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=884694&bvid=BV1ks411o7ay&cid=5966295&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 * **特殊弹幕**（M7）的视频教程较多，这里就不做列举了。
